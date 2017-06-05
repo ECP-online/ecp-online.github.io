@@ -132,7 +132,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/2-1-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/-2-2000x1333.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -148,7 +148,7 @@
             "showButtons": true
           },
           "title": "Получение ЭЦП",
-          "text": "Получить Электронную подпись ЭЦП за &nbsp;1 час в Перми",
+          "text": "Получить электронную подпись за &nbsp;1 час в Перми",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://perm-electronnaya-podpis.lpg.tf/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ЗАЯВКА НА ПОЛУЧЕНИЕ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://perm-electronnaya-podpis.lpg.tf/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ОСТАЛИСЬ ВОПОРОСЫ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://perm-electronnaya-podpis.lpg.tf/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ПЕРЕЧЕНЬ ДОКУМЕНТОВ&nbsp;</a>"
         },
         {
